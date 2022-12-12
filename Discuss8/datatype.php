@@ -5,5 +5,4 @@ $mahasiswa = [
         ];
 
         echo "Halo, nama saya $mahasiswa[nama] nim saya adalah $mahasiswa[nim]";
-        
 ?>
